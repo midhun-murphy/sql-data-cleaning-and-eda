@@ -89,30 +89,6 @@ Performed analysis to identify meaningful insights such as:
 
 ---
 
-## Project Structure
-
-SQL-Data-Cleaning-and-EDA/
-│
-├── README.md
-├── data_cleaning.sql
-├── exploratory_data_analysis.sql
-├── layoffs.csv
-├── cleaned_layoffs.csv
-└── screenshots/
-
----
-
-## Screenshots
-
-Add screenshots of:
-- Raw dataset
-- Duplicate removal queries
-- Data cleaning steps
-- EDA queries
-- Final output tables and insights
-
----
-
 ## Conclusion
 
 This project helped strengthen my SQL skills by applying data cleaning and exploratory data analysis techniques on a real-world dataset using MySQL.
